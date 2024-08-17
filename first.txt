@@ -3,3 +3,5 @@ add more content in line first.
 add more content.
 
 master first file.
+add one line in master
+add second line in master
